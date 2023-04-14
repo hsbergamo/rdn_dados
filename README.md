@@ -6,7 +6,7 @@ Random Dados
   on <a href="https://codepen.io">CodePen</a>.</span>
   
   
-  <a href="https://hsbergamo.github.io/rdn_dados/">RadomDados.git</a
+  <a href="https://hsbergamo.github.io/rdn_dados/">RadomDados.git</a>
   
 
 
